@@ -1,0 +1,22 @@
+{
+  "name": "lab7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test tests/",
+    "test:api": "npx playwright test tests/api",
+    "test:ui": "npx playwright test tests/ui --retries=3",
+    "test:e2e": "npx playwright test tests/e2e --retries=3",
+    "test:unit": "npx playwright test tests/unit --project=chromium"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.17"
+  }
+
+}
+

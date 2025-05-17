@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="3">
+
+  <testsuite name="tests.example.spec" id="tests.example.spec"
+    errors="0" failures="0" hostname="" package="example.spec" skipped="0"
+    tests="3" time="8.270" timestamp="">
+  
+    <testcase name="Login with wrong credentials shows error" classname="tests.example.spec" time="4.434" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Transfer Funds is visible after clicking Online Banking" classname="tests.example.spec" time="1.928" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Feedback form sends data successfully" classname="tests.example.spec" time="1.812" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>
